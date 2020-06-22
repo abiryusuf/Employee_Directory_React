@@ -1,0 +1,19 @@
+/* style the table */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 95% !important;
+    margin: auto;
+  }
+  
+  /* style the table data and headers */
+  td, th {
+    border: 1px solid #b4c9b4;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  /* striping for readability */
+  tr:nth-child(even) {
+    background-color: #c7aeae;
+  }
