@@ -1,5 +1,6 @@
 ## Employee Directory With React
-Github Repository: 
+Github Repository: https://github.com/abiryusuf/Employee_Directory_React
+
 Deployed app on Heroku: 
 
 ## Description
