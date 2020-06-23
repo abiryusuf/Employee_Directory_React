@@ -1,7 +1,7 @@
 ## Employee Directory With React
 Github Repository: https://github.com/abiryusuf/Employee_Directory_React
 
-Deployed app on Heroku: 
+Deployed app on Heroku: https://employee-react-app.herokuapp.com/
 
 ## Description
 A React application with a table of employees. User can sort the table by at least one category. User can filter the users by at least one property.
